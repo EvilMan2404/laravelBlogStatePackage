@@ -1,0 +1,13 @@
+{
+    "name": "evilman2404/blogstate",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikita",
+            "email": "nazevikin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
